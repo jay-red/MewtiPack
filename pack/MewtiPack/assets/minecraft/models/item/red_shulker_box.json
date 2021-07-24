@@ -1,0 +1,20 @@
+{
+	"parent": "minecraft:item/template_shulker_box",
+	"textures": {
+		"particle": "minecraft:block/red_shulker_box"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 32768
+			},
+			"model": "item/vanity/invisible"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32769
+			},
+			"model": "item/vanity/cat_ears"
+		}
+	]
+}
