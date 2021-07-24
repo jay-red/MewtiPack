@@ -15,6 +15,12 @@
 				"custom_model_data": 32769
 			},
 			"model": "item/vanity/cat_ears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32770
+			},
+			"model": "item/vanity/cheese_hat"
 		}
 	]
 }
