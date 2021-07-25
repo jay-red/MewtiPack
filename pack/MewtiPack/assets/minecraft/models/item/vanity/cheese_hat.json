@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/vanity/cheese_hat/cheese",
-		"particle": "custom/vanity/cheese_hat/cheese"
+		"0": "custom/vanity/cheese",
+		"particle": "custom/vanity/cheese"
 	},
 	"elements": [
 		{

@@ -21,6 +21,18 @@
 				"custom_model_data": 32770
 			},
 			"model": "item/vanity/cheese_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32771
+			},
+			"model": "item/vanity/cat_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32772
+			},
+			"model": "item/vanity/loaf_hat"
 		}
 	]
 }
